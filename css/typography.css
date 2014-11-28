@@ -24,11 +24,14 @@ h2, .peta {
   font-size: 1.6018rem;
   line-height: 1.8729;
   text-align: center;
+  color: #7A0000;    
 }
 
 h3, .tera {
   font-size: 1.4238rem;
   line-height: 1.0535;
+  text-align: center;
+  color: #7A0000;     
 }
 
 h4, .giga {
@@ -44,11 +47,15 @@ h5, .mega {
 h6, .kilo {
   font-size: 1.0000rem;
   line-height: 1.5000;
+  text-align: center; 
+  color: black;
+  font-family: 'Raleway', sans-serif;    
 }
 
 small, .milli {
   font-size: 0.8889rem;
   line-height: 1.6875;
+  font-family: 'Raleway', sans-serif;
 }
 
 .micro {
@@ -140,7 +147,7 @@ sub {
 }
 
 h1, h2, h3, h4, h5, h6, .brand-family {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Bevan', cursive; 
 }
 
 
