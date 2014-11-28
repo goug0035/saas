@@ -214,6 +214,14 @@ footer {
     color: #fff;
 }
 
+
+@media only screen and (min-width: 15em) {
+
+ .skate {
+    background-image:url(images/640.jpg);
+  }
+}
+
 @media only screen and (min-width: 25em) {
 
   .nav {
@@ -259,28 +267,6 @@ footer {
 
 @media only screen and (min-width: 60em) {
 
-  .moon-text {
-    padding-left: 1.5rem;
-  }
-
-  .stats {
-    overflow: hidden;
-  }
-
-  .stats > dt {
-    clear: left;
-    float: left;
-    margin-right: 0.75rem;
-    width: 11em;
-  }
-
-  .stats > dd {
-    float: left;
-  }
-
-  .discovery-text {
-    padding-left: 1.5rem;
-  }
 
   .skate {
     width: 100%;
